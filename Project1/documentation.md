@@ -4,9 +4,9 @@
 
 <nav>
 
-*   [Home](index.html)
-*   [Proposal](proposal.html)
-*   [Documentation](documentation.html)
+*   [Home](index.md)
+*   [Proposal](proposal.md)
+*   [Documentation](documentation.md)
 *   [Project](#)
 
 </nav>
